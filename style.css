@@ -1,0 +1,15 @@
+.ui.topmenu.menu {
+  background-color: black;
+  margin: 0px 0px 0px 0px;
+  border-radius: 0px;
+}
+
+.orange-background {
+  background-color: #f96d21;
+  color: white;
+  height: 200px;
+}
+
+.colorblocktop {
+  padding-top: 20px;
+}
